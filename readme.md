@@ -1,51 +1,51 @@
-# Smart Face Recognition System for Automated Attendance
+# Smart Resume and CV Maker
 
-An AI-based attendance management system that uses face recognition technology to automatically detect and mark student attendance.
+A modern and responsive web application that helps users create professional resumes and CVs easily through a clean and user-friendly interface.
 
 ## Features
-- Real-time face detection
-- Automated attendance marking
-- Student face recognition
-- Attendance record management
-- User-friendly interface
+- Professional resume creation
+- Responsive modern UI
+- Easy-to-use interface
+- Real-time editing
+- Resume preview functionality
+- Firebase integration
+- Fast and lightweight design
 
 ## Technologies Used
-- Python
-- OpenCV
-- Face Recognition
-- NumPy
-- Tkinter
-- SQLite/MySQL
+- HTML5
+- CSS3
+- JavaScript
+- Firebase
 
 ## Project Type
-Academic Team Project (4th Semester IDT2)
+Personal Project
 
 ## My Contribution
-- Project development
-- UI handling
-- 
-- Testing and implementation
+- Frontend development
+- UI/UX improvements
+- Feature implementation
+- Project customization
+- Testing and deployment
+
+## Project Structure
+- index.html
+- style.css
+- script.js
+- server.js
+- firebase.json
+
+## How to Run
+1. Download or clone the repository
+2. Open the project folder
+3. Run the local server
+4. Open the browser and access the local host URL
 
 ## Future Improvements
-- Cloud database integration
-- Mobile application support
-- Real-time analytics dashboard
-
-## Installation
-1. Clone the repository
-2. Install required libraries
-3. Run the main Python file
-
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-Run the application and register student faces for attendance tracking.
-
-```bash
-python main.py
-```
+- AI resume suggestions
+- Multiple resume templates
+- PDF export feature
+- Cloud storage support
+- User authentication system
 
 ## Note
-This project was developed as part of a collaborative academic semester project.
+This is a personal project developed with guidance and technical support from a friend.
